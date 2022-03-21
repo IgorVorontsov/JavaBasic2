@@ -47,6 +47,15 @@ public class Main {
         System.out.println("myRect's area is " +myRect.area());
 
 
+        //4th task
+
+        NumberHolder firstNumberHolder = new NumberHolder();
+        firstNumberHolder.anInt = 7;
+        firstNumberHolder.aFloat = 87.877884f;
+
+        System.out.println(firstNumberHolder);
+
+
 
 
 
